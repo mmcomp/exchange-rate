@@ -1,3 +1,14 @@
+# Exchange Rate Calculator Application
+
+This was created with [NestJs](NESTJS.md).
+
+## Before you run
+
+Copy the `.env.example` file and name it `.env` and insert the respective environment values.
+
+
+## Project Description
+
 Ye nest.js app k exchange rate e  currency a ro ba sharayete zir hesab kone:
 
  1.⁠ ⁠Rial b dolar az provider e A gerefte mishe
